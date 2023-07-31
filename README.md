@@ -14,6 +14,8 @@
 There are 6 content modules and 1 Case Study module in this repository.
 
 1. MODULE 1: Introduction & Efficiency
+	- Intro.md
+	- Time_Complexity_Asymptotic_notations.md
 2. MODULE 2: List Based Collections 
 3. MODULE 3: Searching & Sorting
 4. MODULE 4: Maps & Hashing
